@@ -5,6 +5,12 @@ public class Egg {
 		System.out.println("Welcome to Egg");
 		
 		System.out.println("Pork is added");
+		
+		System.out.println("Pork is added");
+		
+		System.out.println("Pork is added");
+		
+		System.out.println("Pork is added");
 	}
 
 }
